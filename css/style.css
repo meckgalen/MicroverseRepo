@@ -1,0 +1,32 @@
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #eee;
+}
+
+.container {
+  position: relative;
+  margin: 0 auto;
+}
+
+.container2 {
+  position: relative;
+  margin-top: 8rem;
+}
+
+.price-card {
+  border-width: 2px;
+  border-radius: 4px;
+  width: 20%;
+  border-color: black;
+}
+
+footer {
+  background-color: gray;
+}
+
+
+@media (min-width: 578){
+    .logo {
+        width: 10%;
+      }
+}
